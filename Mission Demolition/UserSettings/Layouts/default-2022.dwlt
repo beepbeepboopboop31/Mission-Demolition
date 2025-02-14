@@ -101,7 +101,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 50}
   m_MaxSize: {x: 24288, y: 8096}
   vertical: 0
-  controlID: 105
+  controlID: 106
   draggingID: 0
 --- !u!114 &5
 MonoBehaviour:
@@ -179,7 +179,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 100}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 135
+  controlID: 138
   draggingID: 0
 --- !u!114 &8
 MonoBehaviour:
@@ -401,7 +401,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/Prefabs
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -418,7 +418,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 185b0000
     m_LastClickedID: 23320
-    m_ExpandedIDs: 00000000f0590000f2590000f4590000
+    m_ExpandedIDs: 000000002c5a00002e5a0000305a0000325a0000345a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -446,21 +446,21 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000f0590000f2590000f4590000245a00004c5a0000
+    m_ExpandedIDs: ffffffff000000002c5a00002e5a0000305a0000325a0000345a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Slingshot
-      m_OriginalName: Slingshot
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 23120
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 5}
     m_SearchString: 
@@ -588,7 +588,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 30fbffffae590000
+      m_ExpandedIDs: 30fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -961,7 +961,7 @@ MonoBehaviour:
       containerId: overlay-container--right
       floating: 0
       collapsed: 0
-      displayed: 1
+      displayed: 0
       snapOffset: {x: 48, y: 10}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
@@ -981,9 +981,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -8.393108, y: 0.1237842, z: 13.656442}
+    m_Target: {x: 0, y: -10, z: 0}
     speed: 2
-    m_Value: {x: -8.393108, y: 0.1237842, z: 13.656442}
+    m_Value: {x: 0, y: -10, z: 0}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1029,13 +1029,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.046138614, y: 0.9530052, z: -0.19002047, w: -0.23139808}
+    m_Target: {x: -0.11998254, y: -0.02472051, z: 0.0029881783, w: -0.992467}
     speed: 2
-    m_Value: {x: -0.046138603, y: 0.95300496, z: -0.19002043, w: -0.23139802}
+    m_Value: {x: -0.11998215, y: -0.02472043, z: 0.0029881687, w: -0.99246377}
   m_Size:
-    m_Target: 6.607396
+    m_Target: 200.01062
     speed: 2
-    m_Value: 6.607396
+    m_Value: 200.01062
   m_Ortho:
     m_Target: 0
     speed: 2
